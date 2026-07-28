@@ -1,4 +1,4 @@
-# Real-Time Feedforward Neural Network Classifier (Simplified)
+# Real-Time Feedforward Neural Network Classifier
 
 A simple PyTorch project that trains a small feedforward neural network once, then simulates a live stream of incoming data points — classifying each one the moment it "arrives" and plotting it in real time.
 
